@@ -22,7 +22,6 @@ This repository contains a dataset of air quality indexes (AQI) for various poll
 | `Pollutant Name`  | Type of pollutant (e.g., PM2.5, O3).                     |  
 | `Concentration`   | Measured pollutant concentration (µg/m³ or ppm).         |  
 | `AQI Value`       | Computed AQI value for the pollutant.                    |  
-| `AQI Category`    | Air quality category (e.g., Good, Moderate, Unhealthy).  |  
 
 ## Use Cases  
 - **Environmental Analysis:** Analyze air quality patterns across different regions and times.  
